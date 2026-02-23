@@ -5,3 +5,6 @@ This initiative exists within the broader context of the Software Crisis, where 
 Invisibility makes progress difficult to measure across distributed teams. Complexity grows exponentially as more hospitals and systems are integrated. Conformity forces the system to adapt to evolving national healthcare regulations. Flexibility, while theoretically easy, becomes expensive when changes affect interconnected systems.
 
 Effective software project management practices, strong administrative quality control, and cross-site coordination are essential to ensure long-term sustainability and compliance.
+## Current Risks
+- Invisibility: Lack of measurable progress indicators across distributed teams.
+- Conformity: Ongoing changes in healthcare regulations may require architectural redesign.
