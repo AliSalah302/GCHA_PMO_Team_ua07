@@ -4,7 +4,6 @@ Purpose
 This dictionary defines the Definition of Done (DoD) for key work packages.
 
 ---
-
 BAN-001: Nurse Login Screen Development
 
 Description:
