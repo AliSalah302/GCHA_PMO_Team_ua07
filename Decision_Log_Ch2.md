@@ -75,3 +75,29 @@ Decision: Crashing
 Justification: We chose Crashing over Fast-Tracking because authorizing overtime for the existing Berlin team avoids the rework risk of fast-tracking. According to Brooks's Law, adding new developers at this stage would increase communication overhead and may delay the task further.
 
 
+---
+
+## CCB Meeting #1 — Chapter 6: GDPR 2.0 Response
+
+**Date:** April 16, 2026
+
+**Trigger:** EU announces GDPR 2.0. Berlin database architecture is non-compliant.
+
+**Risk ID:** RISK-D (RE = $50,000 pre-event; now Probability = 100%)
+
+### Options Considered
+
+| Option | Cost | Delay | Risk |
+|--------|------|------|------|
+| Full Redesign | $200,000 | 4 weeks | Safe — 100% compliant |
+| Patch Fix | $500,000 | 1 week | 30% chance of failing legal audit |
+
+### Decision: Approved
+
+**Selected Option:** Full Redesign
+
+### Justification
+
+Approved. The risk exposure of a $50M regulatory fine far exceeds the $200,000 cost of a full redesign and the 4-week schedule delay. Based on the CCB impact analysis, the delay is manageable using contingency buffers, making the redesign the safest financial option. This decision minimizes long-term legal and operational risks for the project.
+
+
