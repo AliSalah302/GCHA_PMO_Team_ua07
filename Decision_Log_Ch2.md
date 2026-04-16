@@ -56,3 +56,20 @@ We choose the Build option because Egyptian data sovereignty laws require sensit
 Approved by: Team XX
 
 Next Review: [Date]
+
+
+---
+
+ Decision: CEO Acceleration Request — AI Model Training (Berlin)
+
+Date: April 16, 2026
+
+Trigger: CEO requests 1-week compression of Berlin Critical Path task
+
+**Options Considered:**
+1. Crashing (Berlin overtime)
+2. Fast-Tracking (Bangalore starts at 80% AI completion)
+
+Decision: Crashing
+
+Justification: We chose Crashing over Fast-Tracking because authorizing overtime for the existing Berlin team avoids the rework risk of fast-tracking. According to Brooks's Law, adding new developers at this stage would increase communication overhead and may delay the task further.
