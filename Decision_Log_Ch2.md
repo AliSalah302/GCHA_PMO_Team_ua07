@@ -95,3 +95,24 @@ We chose Crashing over Fast-Tracking because authorizing overtime for the existi
 Approved. The Risk Exposure of a $50M regulatory fine (RE = $50M x 100% = $50M) far exceeds the $200,000 cost of full redesign and the 4-week schedule delay. [cite_start]Per the CCB Impact Analysis, the schedule delay is absorbable using existing float and Contingency Buffer, making the Full Redesign the only financially rational choice. [cite: 294]
 
 
+
+## Conflict Resolution Case #1
+**Date:** 2026-05-07
+Chapter 7: Documentation Standard War
+**Participants:** Berlin Lead, Cairo Lead, PM/Mediator
+
+**The Conflict:**
+Berlin refuses to use the Cairo documentation template. Cairo requires a standardized format for GDPR compliance audits.
+
+**Leadership Style Used:** Facilitator
+
+**The Resolution:**
+We agreed to adopt a hybrid template: Cairo's compliance fields (Risk ID, Data Classification, Audit Trail) are required for all documents. Berlin may add their technical precision fields as optional appendices.
+
+**The New SOP:**
+All GCHA deliverable documents must use the GCHA-Standard-Template-v2.md, located in the Strategic_Artifacts folder. Effective from: 2026-05-07. No exceptions without a formal Change Request.
+
+**Tuckman Stage Outcome:**
+This resolution moves the team from Storming -> Norming. The SOP prevents this same conflict from recurring.
+
+
