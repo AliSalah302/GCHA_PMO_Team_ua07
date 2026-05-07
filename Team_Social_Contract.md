@@ -44,7 +44,6 @@ Per the ACM/IEEE PUBLIC Principle: "Software engineers shall act consistently wi
 4. The PM is ethically obligated to report all known issues to the GlobalCare Board.
 
 **Signed by all team members:**
-- [Kareem]: [Kareem303]
-- [Ali]: [ali304]
-- [Bero]: [bero305]
-- [Honde]: [honde306]
+- [Ali]: [AliSalah302]
+- [ebram]: [ebramdawood85-debug]
+- [mohamed]:  [mohamedzekoo982-crypto]
