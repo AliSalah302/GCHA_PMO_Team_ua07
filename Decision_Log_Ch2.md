@@ -94,7 +94,7 @@ We chose Crashing over Fast-Tracking because authorizing overtime for the existi
 ### Justification
 Approved. The Risk Exposure of a $50M regulatory fine (RE = $50M x 100% = $50M) far exceeds the $200,000 cost of full redesign and the 4-week schedule delay. [cite_start]Per the CCB Impact Analysis, the schedule delay is absorbable using existing float and Contingency Buffer, making the Full Redesign the only financially rational choice. [cite: 294]
 
-
+---
 
 ## Conflict Resolution Case #1
 **Date:** 2026-05-07
