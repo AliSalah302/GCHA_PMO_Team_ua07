@@ -77,27 +77,21 @@ We chose Crashing over Fast-Tracking because authorizing overtime for the existi
 
 ---
 
-## CCB Meeting #1 — Chapter 6: GDPR 2.0 Response
-
-**Date:** April 16, 2026
-
-**Trigger:** EU announces GDPR 2.0. Berlin database architecture is non-compliant.
-
-**Risk ID:** RISK-D (RE = $50,000 pre-event; now Probability = 100%)
+## CCB Meeting - GDPR 2.0 Response
+[cite_start]**Date:** 2026-05-07 [cite: 283]
+**Trigger:** EU announces GDPR 2.0. [cite_start]Berlin database architecture is non-compliant. [cite: 284]
+[cite_start]**Risk ID:** RISK-D (RE = $50,000 pre-event; now Probability = 100%) [cite: 284]
 
 ### Options Considered
-
 | Option | Cost | Delay | Risk |
-|--------|------|------|------|
-| Full Redesign | $200,000 | 4 weeks | Safe — 100% compliant |
-| Patch Fix | $500,000 | 1 week | 30% chance of failing legal audit |
+| :--- | :--- | :--- | :--- |
+| Full Redesign | $200,000 | 4 weeks | Safe - 100% compliant |
+| Patch Fix | $500,000 | 1 week | [cite_start]30% chance of failing legal audit | [cite: 286, 287, 288]
 
-### Decision: Approved
-
-**Selected Option:** Full Redesign
+### [cite_start]Decision: Approved [cite: 289]
+[cite_start]**Selected Option:** Full Redesign [cite: 290]
 
 ### Justification
-
-Approved. The risk exposure of a $50M regulatory fine far exceeds the $200,000 cost of a full redesign and the 4-week schedule delay. Based on the CCB impact analysis, the delay is manageable using contingency buffers, making the redesign the safest financial option. This decision minimizes long-term legal and operational risks for the project.
+Approved. The Risk Exposure of a $50M regulatory fine (RE = $50M x 100% = $50M) far exceeds the $200,000 cost of full redesign and the 4-week schedule delay. [cite_start]Per the CCB Impact Analysis, the schedule delay is absorbable using existing float and Contingency Buffer, making the Full Redesign the only financially rational choice. [cite: 294]
 
 
