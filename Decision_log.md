@@ -124,5 +124,34 @@ All GCHA deliverable documents must use the GCHA-Standard-Template-v2.md, locate
 
 **Tuckman Stage Outcome:**
 This resolution moves the team from Storming -> Norming. The SOP prevents this same conflict from recurring.
+---
+## Decision Log: The Berlin AI Pivot
+## Chapter 8 | Date: 2026-05-07 | Decision-Maker: London PMO
 
+### The Situation
+Berlin's AI module has a CPI of 0.50, meaning $2M has been spent to deliver only $1M of value. [cite_start]An external vendor has offered to complete the module for $600,000 fixed-price. [cite: 163, 164]
+
+### Options Considered
+| Option | Description | Projected Cost to Complete |
+| :--- | :--- | :--- |
+| A: Continue Internal | Berlin team continues with current approach | ~$1,000,000 |
+| B: Outsource to Vendor | External Health-AI firm completes the module | $600,000 |
+| C: Descope | Remove AI module from Phase 1 entirely | $0 |
+
+### Decision: OPTION B Outsource to External Vendor
+**Reasoning:**
+We are choosing Option B: outsource the Berlin AI module to the external Health-AI vendor for $600,000. This decision saves approximately $400,000 compared to continuing with the internal team at their current CPI of 0.50. [cite_start]The vendor carries significantly lower execution risk. [cite: 174]
+
+### Why the $2M Already Spent Does NOT Factor Into This Decision
+**The Sunk Cost Principle:**
+[cite_start]The $2,000,000 already spent on the Berlin AI module is a Sunk Cost; it has been paid and cannot be recovered regardless of which option we choose. [cite: 177, 178]
+* **Correct reasoning:** The $2M is irrelevant to this decision. It is gone either way. [cite_start]The only relevant question is: which option produces the best outcome from this moment forward? [cite: 182, 183]
+
+### Impact on Project Baseline
+* [cite_start]**ETC revised:** Internal $1M -> Vendor $600K = saving of $400,000 [cite: 188]
+* [cite_start]**Revised EAC:** $14,270,000 [cite: 190]
+* [cite_start]**Berlin RAG Status:** Moving from RED to AMBER (vendor onboarding phase) [cite: 191, 192]
+
+### Tuckman Note
+This pivot will create a Storming-equivalent disruption in Berlin. [cite_start]The PM must communicate this change directly and professionally. [cite: 195, 196]
 
