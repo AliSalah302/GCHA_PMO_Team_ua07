@@ -60,20 +60,20 @@ Next Review: [Date]
 
 ---
 
- Decision: CEO Acceleration Request — AI Model Training (Berlin)
+# Decisions Log - GCHA Project
 
-Date: April 16, 2026
-
-Trigger: CEO requests 1-week compression of Berlin Critical Path task
+## Decision: CEO Acceleration Request - AI Model Training (Berlin)
+**Date:** 2026-05-07
+**Trigger:** CEO requests 1-week compression of Berlin Critical Path task
 
 **Options Considered:**
 1. Crashing (Berlin overtime)
 2. Fast-Tracking (Bangalore starts at 80% AI completion)
 
-Decision: Crashing
+**Decision:** Crashing
 
-Justification: We chose Crashing over Fast-Tracking because authorizing overtime for the existing Berlin team avoids the rework risk of fast-tracking. According to Brooks's Law, adding new developers at this stage would increase communication overhead and may delay the task further.
-
+**Justification:**
+We chose Crashing over Fast-Tracking because authorizing overtime for the existing Berlin team avoids the rework risk of fast-tracking. Per Brooks's Law, adding new developers at this stage would increase communication overhead and likely delay the task further.
 
 ---
 
