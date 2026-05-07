@@ -107,7 +107,7 @@ Approved. The Risk Exposure of a $50M regulatory fine (RE = $50M x 100% = $50M) 
 ---
 
 ## Conflict Resolution Case #1
-**Date:** 2026-05-07
+ ## Chapter 7 **Date:** 2026-05-07
 : Documentation Standard War
 **Participants:** Berlin Lead, Cairo Lead, PM/Mediator
 
