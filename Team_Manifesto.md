@@ -1,8 +1,8 @@
 Team Manifesto – Team_ua07 
 Team Members: 
-1. Ali Salah - alis234p@gmail.com - Jira Admin   
+1. Ali Salah - alis234p@gmail.com -   GitHub Admin 
 2. Muhanned Emad - honda55190775@gmail.com - Lead PM   
-3. Karim Mohamed - karimyosiff4@gmail.com - GitHub Admin   
+3. Karim Mohamed - karimyosiff4@gmail.com -  Jira Admin
 4. Ebram Dawood - ebramdawood85@gmail.com - Documentation Lead   
 5. Mohamed Zakaria - mohamedzeko982@gmail.com - Documentation Lead   
 Conflict Resolution: 
