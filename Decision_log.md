@@ -155,3 +155,39 @@ We are choosing Option B: outsource the Berlin AI module to the external Health-
 ### Tuckman Note
 This pivot will create a Storming-equivalent disruption in Berlin. [cite_start]The PM must communicate this change directly and professionally. [cite: 195, 196]
 
+---
+
+## APQ Review - Sprint 4
+## Date: [May 21, 2026] | Reviewed by: London PMO
+
+### Velocity Observation
+**Bangalore Velocity Trend (last 4 sprints):**
+**Bangalore Velocity Trend (last 4 sprints):**
+Sprint 1: 45 points | Sprint 2: 42 points | Sprint 3: 46 points | Sprint 4: 44 points
+
+**Trend:** Stable
+
+**Root Cause Analysis:**
+Bangalore's velocity has remained stable across 4 sprints, indicating that the current administrative structure – regular standups, clear sprint goals, and Cairo's 48-hour response improvement – is supporting consistent productive output.
+
+### Burnout Risk Assessment
+**Current Overtime Status:**
+* **Average Overtime:** [e.g., 3 hours] hours per developer per week (from Jira logged hours).
+* **APQ Standard:** < 5 hours overtime per week per developer.
+* **Status:** 🟢 Green (≤ 5 hrs)
+
+---
+
+### Corrective Actions to Reduce Burnout While Maintaining Quality for Berlin Summit
+* **Action 1:** Introduce "no-meeting blocks" and move non-critical documentation tasks to the next sprint to reduce cognitive load on the team.
+* **Action 2:** Automate the test coverage check so developers don't spend time writing reports manually, utilizing a shared test script library to save individual test writing time.
+
+---
+
+### Link Between APQ and Product Quality
+**The Critical Insight:**
+When Administrative Performance Quality (APQ) degrades — through burnout, Requirement Volatility, or communication latency — the Defect Removal Efficiency (DRE) drops. 
+
+**The Mechanism:**
+Burnout and schedule pressure directly lead to oversight, cutting corners in code quality, and skipping peer review steps, which multiplies the escape rate of bugs into production. Maintaining administrative health is a prerequisite for software safety.
+
